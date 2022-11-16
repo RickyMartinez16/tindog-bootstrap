@@ -39,7 +39,15 @@ h1{
 
 /* FEATURES */
 
-.feature-logo{
-    color:#ff4c68;
+#features{
     text-align: center;
 }
+
+.feature-logo{
+    color:#ef8172;
+    text-align: center;
+}
+
+.feature-logo:hover {
+    color:#ff4c68
+  }
