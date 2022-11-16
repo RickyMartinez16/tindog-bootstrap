@@ -13,6 +13,7 @@ body{
 
 .navbar{
     padding-bottom: 4.5rem;
+    margin-bottom: 20px;
 }
 
 .navbar-brand{
@@ -29,4 +30,10 @@ h1{
     font-size: 3rem;
     line-height: 1.5;
     font-weight: bold;
+}
+
+/* FEATURES */
+
+.feature-logo{
+    color:#ff4c68
 }
