@@ -103,4 +103,10 @@ PRICING */
 #pricing{
     text-align: center;
     margin: 10%;
+    padding: 10px
+}
+
+.pricing-title{
+    margin-bottom: 80px;
+    margin-top: -40px;
 }
