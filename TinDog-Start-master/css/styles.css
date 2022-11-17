@@ -7,9 +7,19 @@ body{
     color: #fff
 }
 
+
+
+.title-h1{
+    margin-top: 55px;
+}
+
 .title-img{
     width: 60%;
     transform: rotate(20deg);
+}
+
+.btn{
+    margin:30px 0px 8px
 }
 
 .container-fluid{
