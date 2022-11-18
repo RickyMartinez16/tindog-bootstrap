@@ -4,7 +4,7 @@ body{
 
 #title{
     background-color: #ff4c68;
-    color: #fff
+    color: whitesmoke
 }
 
 
@@ -14,8 +14,10 @@ body{
 }
 
 .title-img{
-    width: 60%;
+    width: 20%;
     transform: rotate(20deg);
+    position: absolute;
+    right: 30%
 }
 
 .btn{
@@ -23,7 +25,7 @@ body{
 }
 
 .container-fluid{
-    padding: 3% 15%
+    padding: 3% 15% 7%
 }
 
 .navbar{
@@ -51,6 +53,10 @@ h1{
 
 #features{
     text-align: center;
+    background-color: whitesmoke;
+    margin-top: -20px;
+    position: relative;
+    z-index: 1;
 }
 
 .feature-logo{
