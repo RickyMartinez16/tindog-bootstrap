@@ -116,3 +116,12 @@ PRICING */
     margin-bottom: 80px;
     margin-top: -40px;
 }
+
+/* CTA */
+
+#cta{
+    background-color: #ff4c68;
+    color: #fff;
+    font: "Montserrat";
+    text-align: center;
+}
