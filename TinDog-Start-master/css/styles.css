@@ -124,4 +124,18 @@ PRICING */
     color: #fff;
     font: "Montserrat";
     text-align: center;
+    font-weight: bolder;
+    padding-top: 60px;
+    padding-bottom: 50px;
+}
+
+.cta-btn{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+/* FOOTER */
+
+#footer{
+    text-align: center;
 }
