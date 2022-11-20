@@ -138,4 +138,10 @@ PRICING */
 
 #footer{
     text-align: center;
+    padding-top: 40px;
+}
+
+.footer-btn{
+    padding-right: 12px;
+    padding-bottom: 7px;
 }
